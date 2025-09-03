@@ -1,0 +1,8 @@
+aiogram==3.13.1
+python-dotenv==1.0.1
+yt-dlp==2024.10.7
+httpx==0.27.2
+pydantic==2.9.2
+aiosqlite==0.20.0
+SQLAlchemy==2.0.36
+uvloop==0.21.0; platform_system != 'Windows'
